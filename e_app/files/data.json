@@ -1,0 +1,68 @@
+{
+ 	"products":[
+   {
+        "id": 1,
+        "name": "Apple 11",
+        "desc": "New",
+        "price": 75000,
+        "color": "Black",
+        "image": "images/aplle_11.png"},
+      {
+        "id": 2,
+        "name": "Apple 12",
+        "desc": "New",
+        "price": 84000,
+        "color": "Gold",
+        "image": "images/apple 12.jpg"},
+      {
+        "id": 3,
+        "name": "Apple 13",
+        "desc": "New",
+        "price": 92000,
+        "color": "white",
+        "image": "images/apple_13.jpg"},
+      {
+        "id": 4,
+        "name": "Vivo v25",
+        "desc": "New",
+        "price": 95000,
+        "color": "Black",
+        "image": "images/V25.png"},
+      {
+        "id": 5,
+        "name": "Vivo v15",
+        "desc": "New",
+        "price": 64000,
+        "color": "White",
+        "image": "images/vivo-v15-pro.jpg"},
+      {
+        "id": 6,
+        "name": "Vivo p1",
+        "desc": "New",
+        "price": 44000,
+        "color": "Black",
+        "image": "images/vivo_p1.jpg"},
+      {
+        "id": 7,
+        "name": "Vivo v9",
+        "desc": "used",
+        "price": 35000,
+        "color": "Black",
+        "image": "images/vivo_v9.jpg"},
+      {
+        "id": 7,
+        "name": "Vivo y73",
+        "desc": "used",
+        "price": 35000,
+        "color": "Black",
+        "image": "images/vivo_y73.png"},
+      {
+        "id": 8,
+        "name": "Vivo y15",
+        "desc": "used",
+        "price": 35000,
+        "color": "Black",
+        "image": "images/y_15.png"}
+
+    ]
+}
